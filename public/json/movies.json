@@ -1,0 +1,816 @@
+[
+	{
+	"id": 1,
+	"Title": "The Lion King",
+	"Year": "2019",
+	"Runtime": "118 min",
+	"Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+	"Times": {"09:00": [
+		{
+			"status": "negative",
+			"index": "1a"
+		},
+		{
+			"status": "negative",
+			"index": "2a"
+		},
+		{
+			"status": "negative",
+			"index": "3a"
+		},
+		{
+			"status": "notr",
+			"index": "4a"
+		},
+		{
+			"status": "notr",
+			"index": "5a"
+		},
+		{
+			"status": "negative",
+			"index": "6a"
+		},
+		{
+			"status": "notr",
+			"index": "1b"
+		},
+		{
+			"status": "notr",
+			"index": "2b"
+		},
+		{
+			"status": "negative",
+			"index": "3b"
+		},
+		{
+			"status": "negative",
+			"index": "4b"
+		},
+		{
+			"status": "notr",
+			"index": "5b"
+		},
+		{
+			"status": "notr",
+			"index": "6b"
+		},
+		{
+			"status": "notr",
+			"index": "1c"
+		},
+		{
+			"status": "negative",
+			"index": "2c"
+		},
+		{
+			"status": "notr",
+			"index": "3c"
+		},
+		{
+			"status": "notr",
+			"index": "4c"
+		},
+		{
+			"status": "notr",
+			"index": "5c"
+		},
+		{
+			"status": "notr",
+			"index": "6c"
+		},
+		{
+			"status": "negative",
+			"index": "1d"
+		},
+		{
+			"status": "notr",
+			"index": "2d"
+		},
+		{
+			"status": "notr",
+			"index": "3d"
+		},
+		{
+			"status": "notr",
+			"index": "4d"
+		},
+		{
+			"status": "notr",
+			"index": "5d"
+		},
+		{
+			"status": "notr",
+			"index": "6d"
+		}
+	], "13:00": [
+		{
+			"status": "negative",
+			"index": "1a"
+		},
+		{
+			"status": "negative",
+			"index": "2a"
+		},
+		{
+			"status": "negative",
+			"index": "3a"
+		},
+		{
+			"status": "notr",
+			"index": "4a"
+		},
+		{
+			"status": "notr",
+			"index": "5a"
+		},
+		{
+			"status": "negative",
+			"index": "6a"
+		},
+		{
+			"status": "notr",
+			"index": "1b"
+		},
+		{
+			"status": "notr",
+			"index": "2b"
+		},
+		{
+			"status": "negative",
+			"index": "3b"
+		},
+		{
+			"status": "negative",
+			"index": "4b"
+		},
+		{
+			"status": "notr",
+			"index": "5b"
+		},
+		{
+			"status": "notr",
+			"index": "6b"
+		},
+		{
+			"status": "notr",
+			"index": "1c"
+		},
+		{
+			"status": "negative",
+			"index": "2c"
+		},
+		{
+			"status": "notr",
+			"index": "3c"
+		},
+		{
+			"status": "notr",
+			"index": "4c"
+		},
+		{
+			"status": "notr",
+			"index": "5c"
+		},
+		{
+			"status": "notr",
+			"index": "6c"
+		},
+		{
+			"status": "negative",
+			"index": "1d"
+		},
+		{
+			"status": "notr",
+			"index": "2d"
+		},
+		{
+			"status": "notr",
+			"index": "3d"
+		},
+		{
+			"status": "notr",
+			"index": "4d"
+		},
+		{
+			"status": "notr",
+			"index": "5d"
+		},
+		{
+			"status": "notr",
+			"index": "6d"
+		}
+	], "17:00": [
+		{
+			"status": "negative",
+			"index": "1a"
+		},
+		{
+			"status": "negative",
+			"index": "2a"
+		},
+		{
+			"status": "negative",
+			"index": "3a"
+		},
+		{
+			"status": "notr",
+			"index": "4a"
+		},
+		{
+			"status": "notr",
+			"index": "5a"
+		},
+		{
+			"status": "negative",
+			"index": "6a"
+		},
+		{
+			"status": "notr",
+			"index": "1b"
+		},
+		{
+			"status": "notr",
+			"index": "2b"
+		},
+		{
+			"status": "negative",
+			"index": "3b"
+		},
+		{
+			"status": "negative",
+			"index": "4b"
+		},
+		{
+			"status": "notr",
+			"index": "5b"
+		},
+		{
+			"status": "notr",
+			"index": "6b"
+		},
+		{
+			"status": "notr",
+			"index": "1c"
+		},
+		{
+			"status": "negative",
+			"index": "2c"
+		},
+		{
+			"status": "notr",
+			"index": "3c"
+		},
+		{
+			"status": "notr",
+			"index": "4c"
+		},
+		{
+			"status": "notr",
+			"index": "5c"
+		},
+		{
+			"status": "notr",
+			"index": "6c"
+		},
+		{
+			"status": "negative",
+			"index": "1d"
+		},
+		{
+			"status": "notr",
+			"index": "2d"
+		},
+		{
+			"status": "notr",
+			"index": "3d"
+		},
+		{
+			"status": "notr",
+			"index": "4d"
+		},
+		{
+			"status": "notr",
+			"index": "5d"
+		},
+		{
+			"status": "notr",
+			"index": "6d"
+		}
+	], "21:00": [
+		{
+			"status": "negative",
+			"index": "1a"
+		},
+		{
+			"status": "negative",
+			"index": "2a"
+		},
+		{
+			"status": "negative",
+			"index": "3a"
+		},
+		{
+			"status": "notr",
+			"index": "4a"
+		},
+		{
+			"status": "notr",
+			"index": "5a"
+		},
+		{
+			"status": "negative",
+			"index": "6a"
+		},
+		{
+			"status": "notr",
+			"index": "1b"
+		},
+		{
+			"status": "notr",
+			"index": "2b"
+		},
+		{
+			"status": "negative",
+			"index": "3b"
+		},
+		{
+			"status": "negative",
+			"index": "4b"
+		},
+		{
+			"status": "notr",
+			"index": "5b"
+		},
+		{
+			"status": "notr",
+			"index": "6b"
+		},
+		{
+			"status": "notr",
+			"index": "1c"
+		},
+		{
+			"status": "negative",
+			"index": "2c"
+		},
+		{
+			"status": "notr",
+			"index": "3c"
+		},
+		{
+			"status": "notr",
+			"index": "4c"
+		},
+		{
+			"status": "notr",
+			"index": "5c"
+		},
+		{
+			"status": "notr",
+			"index": "6c"
+		},
+		{
+			"status": "negative",
+			"index": "1d"
+		},
+		{
+			"status": "notr",
+			"index": "2d"
+		},
+		{
+			"status": "notr",
+			"index": "3d"
+		},
+		{
+			"status": "notr",
+			"index": "4d"
+		},
+		{
+			"status": "notr",
+			"index": "5d"
+		},
+		{
+			"status": "notr",
+			"index": "6d"
+		}
+	]}
+	},
+	{
+	"id": 2,
+	"Title": "Mowgli: Legend of the Jungle",
+	"Year": "2018",
+	"Runtime": "104 min",
+	"Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+	"Seats": [
+		{
+			"status": "notr",
+			"index": "1a"
+		},
+		{
+			"status": "notr",
+			"index": "2a"
+		},
+		{
+			"status": "notr",
+			"index": "3a"
+		},
+		{
+			"status": "notr",
+			"index": "4a"
+		},
+		{
+			"status": "notr",
+			"index": "5a"
+		},
+		{
+			"status": "notr",
+			"index": "6a"
+		},
+		{
+			"status": "notr",
+			"index": "1b"
+		},
+		{
+			"status": "notr",
+			"index": "2b"
+		},
+		{
+			"status": "notr",
+			"index": "3b"
+		},
+		{
+			"status": "notr",
+			"index": "4b"
+		},
+		{
+			"status": "notr",
+			"index": "5b"
+		},
+		{
+			"status": "notr",
+			"index": "6b"
+		},
+		{
+			"status": "notr",
+			"index": "1c"
+		},
+		{
+			"status": "notr",
+			"index": "2c"
+		},
+		{
+			"status": "notr",
+			"index": "3c"
+		},
+		{
+			"status": "notr",
+			"index": "4c"
+		},
+		{
+			"status": "notr",
+			"index": "5c"
+		},
+		{
+			"status": "notr",
+			"index": "6c"
+		},
+		{
+			"status": "notr",
+			"index": "1d"
+		},
+		{
+			"status": "notr",
+			"index": "2d"
+		},
+		{
+			"status": "notr",
+			"index": "3d"
+		},
+		{
+			"status": "notr",
+			"index": "4d"
+		},
+		{
+			"status": "notr",
+			"index": "5d"
+		},
+		{
+			"status": "notr",
+			"index": "6d"
+		}
+	]
+	},
+	{
+	"id": 3,
+	"Title": "Doctor Strange",
+	"Year": "2016",
+	"Runtime": "115 min",
+	"Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+	"Seats": [
+		{
+			"status": "notr",
+			"index": "1a"
+		},
+		{
+			"status": "notr",
+			"index": "2a"
+		},
+		{
+			"status": "notr",
+			"index": "3a"
+		},
+		{
+			"status": "notr",
+			"index": "4a"
+		},
+		{
+			"status": "notr",
+			"index": "5a"
+		},
+		{
+			"status": "notr",
+			"index": "6a"
+		},
+		{
+			"status": "notr",
+			"index": "1b"
+		},
+		{
+			"status": "notr",
+			"index": "2b"
+		},
+		{
+			"status": "notr",
+			"index": "3b"
+		},
+		{
+			"status": "notr",
+			"index": "4b"
+		},
+		{
+			"status": "notr",
+			"index": "5b"
+		},
+		{
+			"status": "notr",
+			"index": "6b"
+		},
+		{
+			"status": "notr",
+			"index": "1c"
+		},
+		{
+			"status": "notr",
+			"index": "2c"
+		},
+		{
+			"status": "notr",
+			"index": "3c"
+		},
+		{
+			"status": "notr",
+			"index": "4c"
+		},
+		{
+			"status": "notr",
+			"index": "5c"
+		},
+		{
+			"status": "notr",
+			"index": "6c"
+		},
+		{
+			"status": "notr",
+			"index": "1d"
+		},
+		{
+			"status": "notr",
+			"index": "2d"
+		},
+		{
+			"status": "notr",
+			"index": "3d"
+		},
+		{
+			"status": "notr",
+			"index": "4d"
+		},
+		{
+			"status": "notr",
+			"index": "5d"
+		},
+		{
+			"status": "notr",
+			"index": "6d"
+		}
+	]
+	},
+	{
+	"id": 4,
+	"Title": "John Wick",
+	"Year": "2014",
+	"Runtime": "101 min",
+	"Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+	"Seats": [
+		{
+			"status": "notr",
+			"index": "1a"
+		},
+		{
+			"status": "notr",
+			"index": "2a"
+		},
+		{
+			"status": "notr",
+			"index": "3a"
+		},
+		{
+			"status": "notr",
+			"index": "4a"
+		},
+		{
+			"status": "notr",
+			"index": "5a"
+		},
+		{
+			"status": "notr",
+			"index": "6a"
+		},
+		{
+			"status": "notr",
+			"index": "1b"
+		},
+		{
+			"status": "notr",
+			"index": "2b"
+		},
+		{
+			"status": "notr",
+			"index": "3b"
+		},
+		{
+			"status": "notr",
+			"index": "4b"
+		},
+		{
+			"status": "notr",
+			"index": "5b"
+		},
+		{
+			"status": "notr",
+			"index": "6b"
+		},
+		{
+			"status": "notr",
+			"index": "1c"
+		},
+		{
+			"status": "notr",
+			"index": "2c"
+		},
+		{
+			"status": "notr",
+			"index": "3c"
+		},
+		{
+			"status": "notr",
+			"index": "4c"
+		},
+		{
+			"status": "notr",
+			"index": "5c"
+		},
+		{
+			"status": "notr",
+			"index": "6c"
+		},
+		{
+			"status": "notr",
+			"index": "1d"
+		},
+		{
+			"status": "notr",
+			"index": "2d"
+		},
+		{
+			"status": "notr",
+			"index": "3d"
+		},
+		{
+			"status": "notr",
+			"index": "4d"
+		},
+		{
+			"status": "notr",
+			"index": "5d"
+		},
+		{
+			"status": "notr",
+			"index": "6d"
+		}
+	]
+	},
+	{
+	"id": 5,
+	"Title": "The Notebook",
+	"Year": "2004",
+	"Runtime": "123 min",
+	"Seats": [
+		{
+			"status": "notr",
+			"index": "1a"
+		},
+		{
+			"status": "notr",
+			"index": "2a"
+		},
+		{
+			"status": "notr",
+			"index": "3a"
+		},
+		{
+			"status": "notr",
+			"index": "4a"
+		},
+		{
+			"status": "notr",
+			"index": "5a"
+		},
+		{
+			"status": "notr",
+			"index": "6a"
+		},
+		{
+			"status": "notr",
+			"index": "1b"
+		},
+		{
+			"status": "notr",
+			"index": "2b"
+		},
+		{
+			"status": "notr",
+			"index": "3b"
+		},
+		{
+			"status": "notr",
+			"index": "4b"
+		},
+		{
+			"status": "notr",
+			"index": "5b"
+		},
+		{
+			"status": "notr",
+			"index": "6b"
+		},
+		{
+			"status": "notr",
+			"index": "1c"
+		},
+		{
+			"status": "notr",
+			"index": "2c"
+		},
+		{
+			"status": "notr",
+			"index": "3c"
+		},
+		{
+			"status": "notr",
+			"index": "4c"
+		},
+		{
+			"status": "notr",
+			"index": "5c"
+		},
+		{
+			"status": "notr",
+			"index": "6c"
+		},
+		{
+			"status": "notr",
+			"index": "1d"
+		},
+		{
+			"status": "notr",
+			"index": "2d"
+		},
+		{
+			"status": "notr",
+			"index": "3d"
+		},
+		{
+			"status": "notr",
+			"index": "4d"
+		},
+		{
+			"status": "notr",
+			"index": "5d"
+		},
+		{
+			"status": "notr",
+			"index": "6d"
+		}
+	]	}
+]
